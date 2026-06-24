@@ -59,7 +59,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     color: '#0284c7',
     imageSeed: 'hdpe-pipe',
     paletteKey: 'blue',
-    photo: '/products/hdpe-pipe.jpg'
+    photo: '/products/hdpe-pipe.webp'
   },
   {
     id: 'prod-poultry-pot',

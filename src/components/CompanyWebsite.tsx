@@ -683,7 +683,7 @@ export default function CompanyWebsite({ brief, products, onAddInquiry }: Compan
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
               <div className="space-y-2.5 group">
                 <div className="rounded-xl overflow-hidden bg-slate-100 aspect-video border border-slate-200 relative">
-                  <ProductMedia photo="/products/facility-drying.jpg" variant="product" color="#0f766e" label="Feedstock Drying Yard" seedKey="facility-drying" imgClassName="group-hover:scale-105 transition-transform duration-500" vizClassName="group-hover:scale-105 transition-transform duration-500" />
+                  <ProductMedia photo="/products/facility-drying.webp" variant="product" color="#0f766e" label="Feedstock Drying Yard" seedKey="facility-drying" imgClassName="group-hover:scale-105 transition-transform duration-500" vizClassName="group-hover:scale-105 transition-transform duration-500" />
                   <span className="absolute bottom-2 right-2 px-2 py-0.5 bg-slate-950/85 text-[9px] font-mono font-bold text-emerald-400 rounded">Drying Bed A</span>
                 </div>
                 <h5 className="font-bold text-sm text-slate-800">1. Feedstock Drying & Sorting Yard</h5>
@@ -701,7 +701,7 @@ export default function CompanyWebsite({ brief, products, onAddInquiry }: Compan
 
               <div className="space-y-2.5 group">
                 <div className="rounded-xl overflow-hidden bg-slate-100 aspect-video border border-slate-200 relative">
-                  <ProductMedia photo="/products/facility-extrusion.jpg" variant="product" color="#16a34a" label="Extrusion Line 02" seedKey="facility-extrusion" imgClassName="group-hover:scale-105 transition-transform duration-500" vizClassName="group-hover:scale-105 transition-transform duration-500" />
+                  <ProductMedia photo="/products/facility-extrusion.webp" variant="product" color="#16a34a" label="Extrusion Line 02" seedKey="facility-extrusion" imgClassName="group-hover:scale-105 transition-transform duration-500" vizClassName="group-hover:scale-105 transition-transform duration-500" />
                   <span className="absolute bottom-2 right-2 px-2 py-0.5 bg-slate-950/85 text-[9px] font-mono font-bold text-emerald-400 rounded">Extrusion Line 02</span>
                 </div>
                 <h5 className="font-bold text-sm text-slate-800">3. High-Tensile Compounding & Extruders</h5>
