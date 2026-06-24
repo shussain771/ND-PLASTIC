@@ -1,0 +1,6 @@
+{
+  "name": "ND Plastic Recycle Unit",
+  "description": "Official commercial portal for M/S N.D. Plastic Recycle Unit in Agartala, Tripura. Explores premium reprocessed plastic granules (PP, HDPE, LDPE), manufacturing facilities, and direct business channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
